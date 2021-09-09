@@ -7,8 +7,8 @@ const config = {
   url: '',
   host: 'localhost',
   port: 5432,
-  user: 'postgres',
-  password: 'arolitec',
+  user: 'Aroli',
+  password: 'aroli',
   database: 'todos'
 };
 
